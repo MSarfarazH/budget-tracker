@@ -16,7 +16,7 @@
 
 
   ## Description:
-  Helps users to tracket their budget with graphical visual aid
+  Helps users to track their budget with graphical visual aid
 
   _________________________
 
